@@ -15,7 +15,7 @@ save the file
 
 Step2
 
-Edit the AD_SecurityCheck-Atif.ps1
+Edit the AD_SecurityCheck.ps1
 
 you need to update the Email setting in line no 960,1177 and 1187
 
